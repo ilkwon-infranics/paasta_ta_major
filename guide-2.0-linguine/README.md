@@ -1,4 +1,4 @@
-# PaaS-TA 2.0 Guide : Linguine
+# PaaS-TA 2.0 가이드 문서
 
 ## 플랫폼 설치 가이드
 

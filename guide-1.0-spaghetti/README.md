@@ -1,4 +1,4 @@
-# PaaS-TA 1.0 Guide : Spaghetti
+# PaaS-TA 1.0 가이드 문서i
 
 ## 플랫폼 설치 가이드
 
